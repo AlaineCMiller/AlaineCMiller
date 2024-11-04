@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I’m Alaine
 
-<!--
-**AlaineCMiller/AlaineCMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer working with [@bbc](https://github.com/bbc)  
+You can contact me on [LinkedIn](https://www.linkedin.com/in/alaine-miller-b249ab133)  
 
-Here are some ideas to get you started:
+I'm also a Co-organiser of:
+- [BBC Tech Meetup](https://www.meetup.com/bbc-tech-meetup/) 
+- [Ladies of Code (Glasgow)](https://www.meetup.com/ladies-of-code-glasgow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages, Platforms and Tooling
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,clojure,aws,figma,github,gitlab,gherkin,gradle,html,idea,jenkins,nodejs,npm,obsidian,postgres,vscode&perline=9)](https://skillicons.dev)
+
